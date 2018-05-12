@@ -1,0 +1,32 @@
+_repo: De-kleine-vossen_39008
+_version: 0.1.0
+alternative_title: Little foxes. Dutch
+covers:
+- cover_type: archival
+  image_path: 39008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2012-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39008'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'PS'
+title: De kleine vossen
+url: http://www.gutenberg.org/ebooks/39008
